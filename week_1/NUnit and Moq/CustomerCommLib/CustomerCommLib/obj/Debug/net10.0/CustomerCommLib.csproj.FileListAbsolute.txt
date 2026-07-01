@@ -1,0 +1,12 @@
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.sourcelink.json
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+R:\cognizant\week_1\NUnit and Moq\CustomerCommLib\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll

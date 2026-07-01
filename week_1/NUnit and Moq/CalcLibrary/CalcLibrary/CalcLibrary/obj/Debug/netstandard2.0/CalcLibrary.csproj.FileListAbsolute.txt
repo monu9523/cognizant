@@ -1,0 +1,19 @@
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.sourcelink.json
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+R:\cognizant\week_1\NUnit and Moq\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
