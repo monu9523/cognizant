@@ -1,5 +1,13 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/ASP .NET CORE WEB API/FirstWebApi/FirstWebApi.csproj
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.slnLaunch.user
+**/packages/
+*.nupkg
+*.snupkg
+.DS_Store
+Thumbs.db
