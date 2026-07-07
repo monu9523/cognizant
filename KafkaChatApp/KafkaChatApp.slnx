@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../ChatConsumer/ChatConsumer.csproj" />
-  <Project Path="../ChatProducer/ChatProducer.csproj" />
-</Solution>
